@@ -10,7 +10,7 @@
 </div>
 
 <br>
-<h3>💫 Sobre Mí</h3>
+<h3>🚀 Sobre Mí</h3>
 <p>
   Tengo 21 años y soy de <strong>Villa Mercedes, San Luis</strong>. Actualmente estoy cursando la carrera de 
   <strong>Programador Universitario de Sistemas</strong>. Me apasiona profundamente el mundo de la programación y el desarrollo de software; 
@@ -51,7 +51,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/ezequiel-vilchez-87a3a4398/?skipRedirect=true" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/eze.vilchezz?igsh=MTRkaXNkZ29ibHdlOA==" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="vilchezezequiel9@gmail.com">
+<a href="mailto:vilchezezequiel9@gmail.com">
   <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="50" width="50">
 </a>
 </p>

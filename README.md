@@ -34,7 +34,7 @@
 <!--iconos de pila tecnológica-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,html,css,discord,express,github,java,js,mysql,nodejs,py,react,ts,vscode,powershell,npm" />
+    <img src="https://skillicons.dev/icons?i=git,c,html,css,discord,express,github,java,js,mysql,nodejs,py,react,ts,vscode,powershell,npm,java" />
   </a>
 </p>
 
